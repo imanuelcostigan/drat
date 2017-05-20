@@ -19,3 +19,9 @@ addRepo("imanuelcostigan")
 ```
 
 You can also add a call to `drat::addRepo("imanuelcostigan")` to your `~/.Rprofile` file.
+
+### Available packages
+
+At this time, the following are the list of packages available to install from this DRAT:
+
+* [`pkgnews`](https://github.com/imanuelcostigan/pkgnews)
