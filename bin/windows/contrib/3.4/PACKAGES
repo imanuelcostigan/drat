@@ -1,0 +1,4 @@
+Package: pkgnews
+Version: 0.1.0
+Imports: utils, markdown, desc
+License: GPL-2
